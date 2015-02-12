@@ -1,4 +1,4 @@
-package main
+package esindexer
 
 // IndexResponse contains the response from the backend api regarding the status of the indexing
 // operation. ID contains the reference to the specific document in the index, Index is the
